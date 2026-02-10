@@ -1,2 +1,2 @@
 # Mlpipelines-kubeflow
-This Repo contains pipeline automation from data ingestion to model deployment in kubeflow
+This Repo contains pipeline automation from data ingestion to model deployment in FastAPI
